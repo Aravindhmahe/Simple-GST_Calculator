@@ -5,3 +5,7 @@ Another thing is to you can add Different id and their corrosponding ids...hope 
 
 
 Thank You..
+
+# License and Copyright
+
+Licensed under the [MIT License](LICENSE).
