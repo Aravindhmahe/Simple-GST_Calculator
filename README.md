@@ -6,3 +6,7 @@ here you have to register,login and calculate GST for a particular shop.
 
 
 Thank You..
+
+# License and Copyright
+
+Licensed under the [MIT License](LICENSE).
